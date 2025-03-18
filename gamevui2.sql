@@ -18,26 +18,29 @@ CREATE TABLE game (
 
 INSERT INTO game (tengame, hinhgame, taptingame, noidunggame, luotchoi, luotyeuthich, hot, ngaycapnhat, kiemduyet, id_theloai)
 VALUES 
+(N'Trượt Pa-tanh', N'vinaphoneextremeskate_secure.jpg', N'vinaphoneextremeskate_secure.swf', N'<div class="textview instruction">...</div>', 5775, 422, 0, '2018-09-01 19:54:17', 1, 6), 
+(N'Xe tải vượt địa hình', N'xe-tai-vuot-dia-hinh.jpg', N'xe-tai-vuot-dia-hinh.swf', N'<div class="textview instruction">...</div>', 6891, 345, 0, '2018-09-01 19:54:16', 1, 5), 
+(N'Tranh tài World Cup', N'tranh-tai-wc.jpg', N'tranh-tai-wc.swf', N'<div class="textview instruction">...</div>', 4811, 345, 0, '2018-09-01 19:54:16', 1, 6), 
+(N'Tennis 2', N'tennis2.jpg', N'tennis2.swf', N'<div class="textview instruction">...</div>', 9341, 432, 0, '2018-09-01 19:54:16', 1, 6), 
+(N'Đá bóng đôi', N'one-on-one-soccer.jpg', N'one-on-one-soccer.swf', N'<div class="textview instruction">...</div>', 4521, 456, 0, '2018-09-01 19:54:16', 1, 6), 
+(N'Ác mộng 4', N'nightmares4.jpg', N'nightmares4.swf', N'<div class="textview instruction">...</div>', 7641, 521, 0, '2018-09-01 19:54:16', 1, 10);
 
-(N'Trượt Pa-tanh', N'vinaphoneextremeskate_secure.jpg', N'vinaphoneextremeskate_secure.swf', N'<div class="textview instruction">...</div>', 5775, 422, 0, '2018-09-01 19:54:17', 1, 13), 
-(N'Xe tải vượt địa hình', N'xe-tai-vuot-dia-hinh.jpg', N'xe-tai-vuot-dia-hinh.swf', N'<div class="textview instruction">...</div>', 6891, 345, 0, '2018-09-01 19:54:16', 1, 13), 
-(N'Tranh tài World Cup', N'tranh-tai-wc.jpg', N'tranh-tai-wc.swf', N'<div class="textview instruction">...</div>', 4811, 345, 0, '2018-09-01 19:54:16', 1, 13), 
-(N'Tennis 2', N'tennis2.jpg', N'tennis2.swf', N'<div class="textview instruction">...</div>', 9341, 432, 0, '2018-09-01 19:54:16', 1, 13), 
-(N'Đá bóng đôi', N'one-on-one-soccer.jpg', N'one-on-one-soccer.swf', N'<div class="textview instruction">...</div>', 4521, 456, 0, '2018-09-01 19:54:16', 1, 13), 
-(N'Ác mộng 4', N'nightmares4.jpg', N'nightmares4.swf', N'<div class="textview instruction">...</div>', 7641, 521, 0, '2018-09-01 19:54:16', 1, 13);
-INSERT INTO game (tengame, hinhgame, taptingame, noidunggame, luotchoi, luotyeuthich, hot, ngaycapnhat, kiemduyet, id_theloai) VALUES 
+INSERT INTO game (tengame, hinhgame, taptingame, noidunggame, luotchoi, luotyeuthich, hot, ngaycapnhat, kiemduyet, id_theloai) 
+VALUES 
 (N'Thánh chiến huyền ảo 3', N'epic-battle-fantasy-3.jpg', N'epibic-battle-fantasy-3.swf', N'<div class="textview instruction">...</div>', 13425121, 12322, 1, '2018-09-01 19:52:52', 1, 2), 
 (N'Sử thi chiến tranh 5', N'su-thi-chien-tranh-5.jpg', N'su-thi-chien-tranh-5.swf', N'<div class="textview instruction">...</div>', 1234511, 124322, 1, '2018-09-01 19:52:52', 1, 2), 
-(N'Đại chiến Dragon Ball', N'Dai-chien-Dragon-Ball-Z.jpg', N'Dai-chien-Dragon-Ball-Z.swf', N'<div class="textview instruction">...</div>', 4124511, 1423322, 1, '2018-09-01 19:52:52', 1, 2), 
-(N'Vương quốc lâm nguy 2', N'Vuong-quoc-lam-nguy-2.jpg', N'Vuong-quoc-lam-nguy-2.swf', N'<div class="textview instruction">...</div>', 125111, 2343322, 0, '2018-09-01 19:52:52', 1, 2), 
+(N'Đại chiến Dragon Ball', N'Dai-chien-Dragon-Ball-Z.jpg', N'Dai-chien-Dragon-Ball-Z.swf', N'<div class="textview instruction">...</div>', 4124511, 1423322, 1, '2018-09-01 19:52:52', 1, 3), 
+(N'Vương quốc lâm nguy 2', N'Vuong-quoc-lam-nguy-2.jpg', N'Vuong-quoc-lam-nguy-2.swf', N'<div class="textview instruction">...</div>', 125111, 2343322, 0, '2018-09-01 19:52:52', 1, 5), 
 (N'Đế chế hùng mạnh', N'siegius.jpg', N'siegius.swf', N'<div class="textview instruction">...</div>', 97563411, 1241322, 1, '2018-09-01 19:52:52', 1, 2);
-INSERT INTO game (tengame, hinhgame, taptingame, noidunggame, luotchoi, luotyeuthich, hot, ngaycapnhat, kiemduyet, id_theloai) VALUES 
+
+INSERT INTO game (tengame, hinhgame, taptingame, noidunggame, luotchoi, luotyeuthich, hot, ngaycapnhat, kiemduyet, id_theloai) 
+VALUES 
 (N'Cuộc chiến không gian', N'cuoc-chien-khong-gian.jpg', N'cuoc-chien-khong-gian.swf', N'<div class="textview instruction">...</div>', 5432123, 654321, 1, '2025-03-15 10:30:00', 1, 3),
 (N'Chiến binh bóng tối', N'chien-binh-bong-toi.jpg', N'chien-binh-bong-toi.swf', N'<div class="textview instruction">...</div>', 3214567, 765432, 1, '2025-03-15 10:30:00', 1, 4),
 (N'Bí ẩn hầm ngục', N'bi-an-ham-nguc.jpg', N'bi-an-ham-nguc.swf', N'<div class="textview instruction">...</div>', 7896541, 987654, 1, '2025-03-15 10:30:00', 1, 5),
-(N'Cuộc chiến sinh tồn', N'cuoc-chien-sinh-ton.jpg', N'cuoc-chien-sinh-ton.swf', N'<div class="textview instruction">...</div>', 4561238, 852963, 0, '2025-03-15 10:30:00', 1, 6),
-(N'Huyền thoại thần kiếm', N'huyen-thoai-than-kiem.jpg', N'huyen-thoai-than-kiem.swf', N'<div class="textview instruction">...</div>', 9638527, 741258, 1, '2025-03-15 10:30:00', 1, 7);
-INSERT INTO game (tengame, hinhgame, taptingame, noidunggame, luotchoi, luotyeuthich, hot, ngaycapnhat, kiemduyet, id_theloai)
+(N'Cuộc chiến sinh tồn', N'cuoc-chien-sinh-ton.jpg', N'cuoc-chien-sinh-ton.swf', N'<div class="textview instruction">...</div>', 4561238, 852963, 0, '2025-03-15 10:30:00', 1, 3),
+(N'Huyền thoại thần kiếm', N'huyen-thoai-than-kiem.jpg', N'huyen-thoai-than-kiem.swf', N'<div class="textview instruction">...</div>', 9638527, 741258, 1, '2025-03-15 10:30:00', 1, 5);
+
 VALUES 
 (N'Xây tháp', N'xay-thap.jpg', N'xay-thap.swf', N'<div class="textview instruction">...</div>', 54612, 2352, 0, '2018-09-01 19:53:26', 1, 7),
 (N'Tiểu Kim Quy', N'tieukimquy_secure.jpg', N'tieukimquy_secure.swf', N'<div class="textview instruction">...</div>', 61212, 6522, 0, '2018-09-01 19:53:26', 1, 7),
