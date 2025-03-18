@@ -1,4 +1,2 @@
 
-
-
-sigma boy
+Long is very GAY
