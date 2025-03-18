@@ -41,6 +41,7 @@ VALUES
 (N'Cuộc chiến sinh tồn', N'cuoc-chien-sinh-ton.jpg', N'cuoc-chien-sinh-ton.swf', N'<div class="textview instruction">...</div>', 4561238, 852963, 0, '2025-03-15 10:30:00', 1, 3),
 (N'Huyền thoại thần kiếm', N'huyen-thoai-than-kiem.jpg', N'huyen-thoai-than-kiem.swf', N'<div class="textview instruction">...</div>', 9638527, 741258, 1, '2025-03-15 10:30:00', 1, 5);
 
+INSERT INTO game (tengame, hinhgame, taptingame, noidunggame, luotchoi, luotyeuthich, hot, ngaycapnhat, kiemduyet, id_theloai) 
 VALUES 
 (N'Xây tháp', N'xay-thap.jpg', N'xay-thap.swf', N'<div class="textview instruction">...</div>', 54612, 2352, 0, '2018-09-01 19:53:26', 1, 7),
 (N'Tiểu Kim Quy', N'tieukimquy_secure.jpg', N'tieukimquy_secure.swf', N'<div class="textview instruction">...</div>', 61212, 6522, 0, '2018-09-01 19:53:26', 1, 7),
